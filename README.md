@@ -26,4 +26,4 @@ streamlit run streamlit_app.py
 ```
 
 ## Live Demo
-Deploy on [Streamlit Cloud](https://share.streamlit.io/)
+Deploy on [Streamlit Cloud](https://anna-ai-coach-k75mjz87gerxg5zgzrzrvm.streamlit.app/)
