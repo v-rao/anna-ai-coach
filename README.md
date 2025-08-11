@@ -12,8 +12,8 @@ She can answer business questions, ask follow-ups, and give you actionable steps
 
 ## Run Locally (CLI)
 ```bash
-git clone https://github.com/YOUR_USERNAME/anna-coach.git
-cd anna-coach
+git clone https://github.com/YOUR_USERNAME/anna-ai-coach.git
+cd anna-ai-coach
 pip install -r requirements.txt
 export OPENAI_API_KEY="your-api-key"
 mkdir logs
