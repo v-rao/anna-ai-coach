@@ -1,0 +1,9 @@
+To validate a business idea, start by identifying your target customer and talking to them directly.
+Run at least 5-10 customer interviews to learn about their needs and pain points.
+A Minimum Viable Product (MVP) should focus on solving one key problem with minimal features.
+Define your target audience by identifying their demographics, needs, and buying behavior.
+Market research can be done through surveys, interviews, and competitor analysis.
+Revenue models include subscription, freemium, pay-per-use, and advertising.
+Use landing pages to collect interest before building the full product.
+Time-box your MVP development to avoid feature creep.
+Test early and often with real users to collect feedback.
