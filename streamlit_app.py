@@ -6,6 +6,9 @@ from logger import ConversationLogger
 
 st.set_page_config(page_title="Anna - Startup Coach", page_icon="💡")
 
+# Ensure logs folder exists
+os.makedirs("logs", exist_ok=True)
+
 LOG_FILE = "logs/web_session_log.json"
 
 # Load previous chat history from file
